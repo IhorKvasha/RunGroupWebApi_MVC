@@ -24,3 +24,14 @@
 /Users/igor/Desktop/GadgetDoctor/RunGroupWebApi/RunGroupWebApi/obj/Debug/net6.0/RunGroupWebApi.pdb
 /Users/igor/Desktop/GadgetDoctor/RunGroupWebApi/RunGroupWebApi/obj/Debug/net6.0/RunGroupWebApi.genruntimeconfig.cache
 /Users/igor/Desktop/GadgetDoctor/RunGroupWebApi/RunGroupWebApi/obj/Debug/net6.0/ref/RunGroupWebApi.dll
+/Users/igor/Desktop/GadgetDoctor/RunGroupWebApi/RunGroupWebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/igor/Desktop/GadgetDoctor/RunGroupWebApi/RunGroupWebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/igor/Desktop/GadgetDoctor/RunGroupWebApi/RunGroupWebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/igor/Desktop/GadgetDoctor/RunGroupWebApi/RunGroupWebApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/igor/Desktop/GadgetDoctor/RunGroupWebApi/RunGroupWebApi/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/igor/Desktop/GadgetDoctor/RunGroupWebApi/RunGroupWebApi/bin/Debug/net6.0/Npgsql.dll
+/Users/igor/Desktop/GadgetDoctor/RunGroupWebApi/RunGroupWebApi/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/igor/Desktop/GadgetDoctor/RunGroupWebApi/RunGroupWebApi/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/igor/Desktop/GadgetDoctor/RunGroupWebApi/RunGroupWebApi/obj/Debug/net6.0/RunGroupWebApi.csproj.CopyComplete
+/Users/igor/Desktop/GadgetDoctor/RunGroupWebApi/RunGroupWebApi/bin/Debug/net6.0/Humanizer.dll
+/Users/igor/Desktop/GadgetDoctor/RunGroupWebApi/RunGroupWebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll

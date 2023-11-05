@@ -8,6 +8,6 @@ public class AppUser : IdentityUser
     public int? Mileage { get; set; }
     public Address? Address { get; set; }
     public ICollection<Club> Clubs { get; set; }
-    public ICollection<Races> Race { get; set; }
+    public ICollection<Race> Race { get; set; }
     
 }
