@@ -15,12 +15,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/igor/Desktop/GadgetDoctor/RunGroupWebApi/RunGroupWebApi
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/igor/Desktop/GadgetDoctor/RunGroupWebApi/RunGroupWebApi/Views/Club/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2x1Yi9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/igor/Desktop/GadgetDoctor/RunGroupWebApi/RunGroupWebApi/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/igor/Desktop/GadgetDoctor/RunGroupWebApi/RunGroupWebApi/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/igor/Desktop/GadgetDoctor/RunGroupWebApi/RunGroupWebApi/Views/Race/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmFjZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/igor/Desktop/GadgetDoctor/RunGroupWebApi/RunGroupWebApi/Views/Shared/Error.cshtml]
